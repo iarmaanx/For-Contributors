@@ -4,7 +4,7 @@ Welcome buddies! I'm happy to have you here 😊
 
 
 
-## Getting Started
+## How to start
 
 ### Prerequisites ✅
 Make sure you have below listed apps installed on your PC.
