@@ -43,4 +43,4 @@ Be cool and respectful. Read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 
 ## License 🪪
-This project is licensed under Armaan Singh. See [LICENSE.md](LICENSE.md) for details.
+This project is licensed under Armaan Singh. See [LICENSE](LICENSE.md) for details.
