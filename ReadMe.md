@@ -20,7 +20,7 @@ Make sure you have below listed apps installed on your PC.
 
 ## Contributing
 
-We'd love your help in making this project awesome! Here's how:
+I'd love your help in making this project awesome! Here's how:
 
 
 
@@ -35,7 +35,7 @@ We'd love your help in making this project awesome! Here's how:
 
 
 ### Bug Reports
-If you find a bug, tell us! Open an issue with a clear title and description.
+If you find a bug, let me know! Open an issue with a clear title and description.
 
 
 ### Feature Requests
