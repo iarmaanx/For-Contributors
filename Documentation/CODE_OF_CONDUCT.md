@@ -1,6 +1,6 @@
 # Code of Conduct
 
-I Welcome to the "For-Contributors" community! To ensure a positive and inclusive environment, we've established this Code of Conduct that applies to everyone participating in our project.
+I welcome to the "For-Contributors" community! To ensure a positive and inclusive environment, we've established this Code of Conduct that applies to everyone participating in our project.
 
 ## Our Pledge
 
