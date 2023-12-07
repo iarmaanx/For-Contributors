@@ -32,7 +32,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 ## Reporting Violations
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by contacting [maintainer's email address]. All reports will be kept confidential.
+If you experience or witness behavior that violates this Code of Conduct, please report it by contacting thearmaandeep@gmail.com . All reports will be kept confidential.
 
 ## Enforcement
 
